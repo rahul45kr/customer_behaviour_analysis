@@ -1,4 +1,3 @@
-# customer_behaviour_analysis
 # 🛒 Customer Shopping Behavior Analysis
 
 ## 📌 Overview
