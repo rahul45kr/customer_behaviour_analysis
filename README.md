@@ -115,7 +115,7 @@ This project analyzes customer shopping behavior to identify purchasing patterns
 
 4. Execute SQL queries in your database
 
-5. Open the Power BI (.pbix) file to explore the d
+5. Open the Power BI (.pbix) file to explore the dashboard.
 ---
 
 ## 📊 Results
